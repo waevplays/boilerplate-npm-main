@@ -1,6 +1,6 @@
 {
-  "author": "muba",
   "name": "fcc-learn-npm-package-json",
+  "author": "muba",
   "dependencies": {
     "express": "^4.14.0"
   },
